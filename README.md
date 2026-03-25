@@ -11,6 +11,12 @@
 
 More on that in my portfolio 🌐 **[shumil.in](https://shumil.in)**
 
+## in.spire
+
+Every month I go to a different Swiss canton for a casual walk-and-talk about software development and product management. Bring a challenge you're working on — we'll break it down, swap ideas, and turn it into clear next steps you can act on. Open to founders, PMs, devs, and anyone curious about how good products get made.
+
+- 📍 **Next up**: [in.spire Solothurn](https://www.eventbrite.com/e/inspire-solothurn-tickets-1985902013381)
+
 ## Fun Stuff
 
 - 🗺️ **[Mission Planner](https://planner.wildair.ch)** – 3D mission planning & flight simulation for INAV
