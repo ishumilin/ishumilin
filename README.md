@@ -5,6 +5,7 @@
 
 ## Selected projects where vision became reality
 
+- 🩺 **Klinik** - Swiss nDSG-compliant solution to processing clinical diagnosis documentation ([Try it yourself](https://www.klinik.shumil.in))
 - 🌳 **Fintree** – Interactive pension & wealth simulator for Swiss 3-pillar pension optimisation ([MoneyToday coverage](https://www.moneytoday.ch/news/fintree-fuehlt-individuellem-vorsorgesparen-auf-den-zahn-und-oeffnet-wege-zu-einer-neuen-generation/))
 - 🏔️ **TaxJungle** – Interactive Swiss tax comparison across every municipality ([Handelszeitung coverage](https://www.handelszeitung.ch/geld/zahlen-sie-zu-viele-steuern-machen-sie-den-vergleich))
 - 🏠 **Hyppo** – Switzerland's first personalised mortgage calculator for English-speaking expats ([FintechNews coverage](https://fintechnews.ch/online-mortgage/keen-innovation-launches-mortgage-calculator-for-english-speakers-in-switzerland/37179/))
