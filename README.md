@@ -52,6 +52,7 @@ A suite of [MCP](https://modelcontextprotocol.io/) servers for accessing Swiss g
 ## FPV Drones & Hardware
 
 - ✈️ **[Zum Wilden Mann](https://blog.wildair.ch)** – When I have time, I write about building, tuning, and other aspects of FPV tech
+- 📺 **[My YouTube Channel](https://www.youtube.com/@WILDAIR-CH)** – Come fly with me
 - 🔧 **[Thingiverse](https://www.thingiverse.com/ishumilin)** – My 3D printing designs
 
 ## Academic Work
