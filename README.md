@@ -5,6 +5,7 @@
 
 ## Selected projects where vision became reality
 
+- 🍷 **Cuvai** - ML-powered clienteling tool for premium wine and spirits, helping sales teams match the right bottle to the right collector at the right time ([Try it yourself](https://cuvai.shumil.in))
 - 🩺 **Klinik** - Swiss nDSG-compliant solution to processing clinical diagnosis documentation ([Try it yourself](https://www.klinik.shumil.in))
 - 🌳 **Fintree** – Interactive pension & wealth simulator for Swiss 3-pillar pension optimisation ([MoneyToday coverage](https://www.moneytoday.ch/news/fintree-fuehlt-individuellem-vorsorgesparen-auf-den-zahn-und-oeffnet-wege-zu-einer-neuen-generation/))
 - 🏔️ **TaxJungle** – Interactive Swiss tax comparison across every municipality ([Handelszeitung coverage](https://www.handelszeitung.ch/geld/zahlen-sie-zu-viele-steuern-machen-sie-den-vergleich))
